@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="tests.NSEScript"/>
+      <class name="tests.Example1"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
